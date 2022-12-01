@@ -1,8 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Clock In App
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
+
+I am using node version `18.12.1`
 
 Make sure to install the dependencies:
 
